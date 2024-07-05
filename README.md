@@ -1,4 +1,6 @@
 <p align="center">
+  <samp>A Fullstack JavaScript & TypeScript developer.</samp>
+  <br />
   <samp>
     <a href="https://react.dev/">react</a> .
     <a href="https://nextjs.org/">next.js</a> .

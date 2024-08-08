@@ -10,3 +10,9 @@
     <a href="https://nestjs.com/">nest.js</a>
   </samp>
 </p>
+<p align="center">
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=gigachad&theme=github_dark&hide_border=true&hide_title=true&langs_count=5" 
+  />
+</p>
